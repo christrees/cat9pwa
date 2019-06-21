@@ -1,8 +1,8 @@
 {
-  "name": "your-first-pwapp",
-  "version": "2.0.0",
-  "description": "Codelab for Your First PWAPP",
-  "homepage": "https://codelabs.developers.google.com/codelabs/your-first-pwapp/",
+  "name": "cat9pwa",
+  "version": "0.1.0",
+  "description": "cat9pwa demo app",
+  "homepage": "https://github.com/christrees/cat9pwa/",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlecodelabs/your-first-pwapp.git"
+    "url": "https://github.com/christrees/cat9pwa.git"
   },
   "bugs": {
-    "url": "https://github.com/googlecodelabs/your-first-pwapp/issues"
+    "url": "https://github.com/christrees/cat9pwa/issues"
   },
   "license": "Apache2",
   "keywords": [

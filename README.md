@@ -2,6 +2,26 @@
 
 Basically a PWA working through google's tutorial.
 
+## Glitch christrees-cat9pwa project
+
+[glitch edit https://glitch.com/~christrees-cat9pwa](https://glitch.com/~christrees-cat9pwa)
+
+[Live demo https://christrees-cat9pwa.glitch.me/](https://christrees-cat9pwa.glitch.me/)
+
+## Github
+
+[https://github.com/christrees/cat9pwa](https://github.com/christrees/cat9pwa)
+
+## Local dev quickstart
+
+On your dev machine
+```
+catmini:christrees cat$ git clone https://github.com/christrees/cat9pwa.git
+catmini:christrees cat$ cd cat9pwa
+catmini:cat9pwa cat$ npm install
+catmini:cat9pwa cat$ npm start
+```
+
 ----
 
 These are the resource files needed for the
